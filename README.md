@@ -12,7 +12,7 @@ As a pre-requisite for this tutorial, please sign up and create your own AWS Fre
 
 Follow along via links to AWS tutorial content in the Table of Contents below. 
 
-# Table of Contents
+# [Table of Contents](https://google.com)
 
 ## [Networking in AWS (VPC)](./VPC#VPC) ##
 1. [Overview](/VPC#VPC-Overview)
